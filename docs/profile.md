@@ -13,23 +13,8 @@ title: Mentor Profile
 
 I am pursuing my first year of electronics and computer engineering at Birla Institute of Technology and Science, Dubai, UAE. 
 
-My expertise spans various domains including robotics, AI, machine learning, and software development. I'm particularly interested in the intersection of these fields and how they can be applied to solve real-world problems.
+I take special intrest in dancing and learning new things.
 
-## Professional Experience
-
-### Research Assistant
-**BITS Pilani Dubai Campus, Dubai, UAE** | *Sep 2023–Dec 2024*
-
-- Simulated 5+ robot behaviors using Unity and ROS2, improving testing efficiency by 30%.
-- Developed 3 VR/MR apps for robot control, conducting 20+ simulations in MetaQuest 3 headset.
-- Created and deployed 4 custom ROS2 packages using Docker, improving modularity and scalability.
-- Implemented SLAM algorithms for autonomous navigation, achieving 95% accuracy in unknown environments.
-
-### Teaching Assistant (Lab)
-**BITS Pilani Dubai Campus, Dubai, UAE** | *Sep 2023–Jun 2024*
-
-- Provided guidance and support to undergraduate students in understanding computer architecture concepts.
-- Taught in additional labs such as Computer Networks, Data Structures and Algorithms (DSA), and Database Systems.
 
 ## Skills
 
@@ -59,14 +44,12 @@ My expertise spans various domains including robotics, AI, machine learning, and
 
 ## Contact
 
-- **Email**: h20230010@dubai.bits-pilani.ac.in
-- **GitHub**: [@prakash-aryan](https://github.com/prakash-aryan)
-- **LinkedIn**: [Prakash Aryan](https://www.linkedin.com/in/prakash-aryan/)
-- **Website**: [prakasharyan.com](https://prakasharyan.com)
+- **Email**: f20240420@dubai.bits-pilani.ac.in
+- **GitHub**: [@DarshithaG](https://github.com/DarshithaG)
 
 ## ACMW-Jump Mentorship Project
 
-I am currently mentoring a team for the ACMW-Jump program, where we are working on a security and monitoring project. Our team consists of four talented individuals, each focusing on different aspects of the project:
+I am currently in the team of a program called ACMW-Jump program, where we are working on a security and monitoring project. Our team is mentored by our senior Prakash Aryan who is pursuing his Master of Engineering in Software Systems at Birla Institute of Technology and Science, Dubai, UAE. This program consists of four different roles being
 
 1. **Security & Database Engineering**
 2. **Data Infrastructure Engineering**
