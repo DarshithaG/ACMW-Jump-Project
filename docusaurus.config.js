@@ -6,7 +6,7 @@ const {themes} = require('prism-react-renderer');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   // TODO: MENTEE - Update your name here
-  title: 'Drashitha Gollapalli',
+  title: 'Darshitha Gollapalli',
   // TODO: MENTEE - Update your tagline/slogan here
   tagline: 'Advancing Women in Computing, One Line of Code at a Time',
   // TODO: MENTEE - Update favicon path or add your own image
@@ -15,7 +15,7 @@ const config = {
 
   // Set the production url of your site here
   // TODO: MENTEE - Update with your GitHub username
-  url: 'https://github.com/DarshithaG',
+  url: 'https://DrashithaG.github.io',
   // TODO: MENTEE - Update with your repository name
   baseUrl: '/ACMW-Jump-Project/',
 
@@ -83,7 +83,7 @@ const config = {
           },
           {
             // TODO: MENTEE - Update with your GitHub profile URL
-            href: 'https://github.com/DarshithaG',
+            href: 'https://DarshithaG.github.io',
             label: 'GitHub',
             position: 'right',
           },
@@ -92,7 +92,7 @@ const config = {
       footer: {
         style: 'dark',
         // TODO: MENTEE - Update with your own copyright message
-        copyright: `© ${new Date().getFullYear()} Prakash Aryan. Built with Docusaurus.`,
+        copyright: `© ${new Date().getFullYear()} Darshitha Gollapalli. Built with Docusaurus.`,
         links: [
           {
             title: 'Documentation',
@@ -116,7 +116,7 @@ const config = {
             items: [
               {
                 // TODO: MENTEE - Update with your GitHub profile URL
-                href: 'https://github.com/DarshithaG',
+                href: 'https://DarshithaGgithub.io',
                 label: 'GitHub',
               },
 
