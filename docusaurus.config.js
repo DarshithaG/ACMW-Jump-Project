@@ -10,18 +10,18 @@ const config = {
   // TODO: MENTEE - Update your tagline/slogan here
   tagline: 'Advancing Women in Computing, One Line of Code at a Time',
   // TODO: MENTEE - Update favicon path or add your own image
-  favicon: 'img/github-profile.png',
+  favicon: 'img/github-DarshithaG.png',
   trailingSlash: true,
 
   // Set the production url of your site here
   // TODO: MENTEE - Update with your GitHub username
-  url: 'https://prakash-aryan.github.io',
+  url: 'https://github.com/DarshithaG',
   // TODO: MENTEE - Update with your repository name
   baseUrl: '/ACMW-Jump-Project/',
 
   // GitHub pages deployment config
   // TODO: MENTEE - Update with your GitHub username
-  organizationName: 'prakash-aryan',
+  organizationName: 'DarshithaG',
   // TODO: MENTEE - Update with your repository name
   projectName: 'ACMW-Jump-Project',
 
@@ -46,13 +46,13 @@ const config = {
           routeBasePath: 'docs',
           // TODO: MENTEE - Update with your GitHub username and repository name
           editUrl:
-            'https://github.com/prakash-aryan/ACMW-Jump-Project/tree/main/',
+            'https://github.com/DarshithaG/ACMW-Jump-Project',
         },
         blog: {
           showReadingTime: true,
           // TODO: MENTEE - Update with your GitHub username and repository name
           editUrl:
-            'https://github.com/prakash-aryan/ACMW-Jump-Project/tree/main/',
+            'https://github.com/DarshithaG/ACMW-Jump-Project',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
