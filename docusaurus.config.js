@@ -83,7 +83,7 @@ const config = {
           },
           {
             // TODO: MENTEE - Update with your GitHub profile URL
-            href: 'https://DarshithaG.github.io',
+            href: 'https://github.com/DarshithaG',
             label: 'GitHub',
             position: 'right',
           },
@@ -116,7 +116,7 @@ const config = {
             items: [
               {
                 // TODO: MENTEE - Update with your GitHub profile URL
-                href: 'https://DarshithaGgithub.io',
+                href: 'https://github.com/DarshithaG',
                 label: 'GitHub',
               },
 
