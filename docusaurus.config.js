@@ -68,12 +68,12 @@ const config = {
       image: 'img/acmw-social-card.jpg',
       navbar: {
         // TODO: MENTEE - Update with your name in the navbar
-        title: 'Prakash Aryan',
+        title: 'DarshithaG',
         logo: {
           // TODO: MENTEE - Update alt text with your name
-          alt: 'Prakash Aryan',
+          alt: 'DarshithaG',
           // TODO: MENTEE - Update with your profile picture
-          src: '/img/github-profile.png',
+          src: '/img/github-DarshithaG.png',
         },
         items: [
           {
@@ -83,7 +83,7 @@ const config = {
           },
           {
             // TODO: MENTEE - Update with your GitHub profile URL
-            href: 'https://github.com/prakash-aryan',
+            href: 'https://github.com/DarshithaG',
             label: 'GitHub',
             position: 'right',
           },
@@ -116,19 +116,11 @@ const config = {
             items: [
               {
                 // TODO: MENTEE - Update with your GitHub profile URL
-                href: 'https://github.com/prakash-aryan',
+                href: 'https://github.com/DarshithaG',
                 label: 'GitHub',
               },
-              {
-                // TODO: MENTEE - Update with your LinkedIn profile URL (or remove if not applicable)
-                href: 'https://www.linkedin.com/in/prakash-aryan/',
-                label: 'LinkedIn',
-              },
-              {
-                // TODO: MENTEE - Update with your personal website (or remove if not applicable)
-                href: 'https://prakasharyan.com',
-                label: 'Website',
-              },
+
+              
             ],
           },
         ],
