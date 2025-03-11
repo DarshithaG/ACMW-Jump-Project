@@ -6,7 +6,7 @@ const {themes} = require('prism-react-renderer');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   // TODO: MENTEE - Update your name here
-  title: 'Prakash Aryan',
+  title: 'Drashitha Gollapalli',
   // TODO: MENTEE - Update your tagline/slogan here
   tagline: 'Advancing Women in Computing, One Line of Code at a Time',
   // TODO: MENTEE - Update favicon path or add your own image
