@@ -3,15 +3,15 @@ id: profile
 title: Mentor Profile
 ---
 
-# Prakash Aryan
+# Darshitha Gollapalli
 
 <div style={{display: 'flex', justifyContent: 'center', marginBottom: '20px'}}>
-  <img src="https://avatars.githubusercontent.com/u/53960016?v=4" alt="Prakash Aryan" style={{borderRadius: '50%', width: '200px', height: '200px', objectFit: 'cover'}}/>
+  <img src="https://avatars.githubusercontent.com/u/53960016?v=4" alt="Darshitha Gollapalli" style={{borderRadius: '50%', width: '200px', height: '200px', objectFit: 'cover'}}/>
 </div>
 
 ## About Me
 
-I am currently pursuing my Master of Engineering in Software Systems at Birla Institute of Technology and Science, Dubai, UAE. I completed my Bachelor of Technology in Computer Engineering with a specialization in Artificial Intelligence from Poornima University, Jaipur, India.
+I am pursuing my first year of electronics and computer engineering at Birla Institute of Technology and Science, Dubai, UAE. 
 
 My expertise spans various domains including robotics, AI, machine learning, and software development. I'm particularly interested in the intersection of these fields and how they can be applied to solve real-world problems.
 
