@@ -1,6 +1,6 @@
 ---
 id: profile
-title: Mentor Profile
+title: Mentee Profile
 ---
 
 # Darshitha Gollapalli
