@@ -4,6 +4,7 @@ title: Mentor Profile
 ---
 
 # Darshitha Gollapalli
+![DDDDDD](/img/your-image.png)
 
 <div style={{display: 'flex', justifyContent: 'center', marginBottom: '20px'}}>
   <img src="https://avatars.githubusercontent.com/u/53960016?v=4" alt="Darshitha Gollapalli" style={{borderRadius: '50%', width: '200px', height: '200px', objectFit: 'cover'}}/>
@@ -11,9 +12,7 @@ title: Mentor Profile
 
 ## About Me
 
-I am pursuing my first year of electronics and computer engineering at Birla Institute of Technology and Science, Dubai, UAE. 
-
-I take special intrest in dancing and learning new things.
+I am pursuing my first year of electronics and computer engineering at Birla Institute of Technology and Science, Dubai, UAE.Dance is my form of self-expression, while books serve as a gateway.
 
 
 ## Skills
