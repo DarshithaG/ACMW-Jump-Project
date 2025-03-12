@@ -17,29 +17,16 @@ I am pursuing my first year of electronics and computer engineering at Birla Ins
 
 ## Skills
 
-- **Programming Languages**: Python, C/C++, C# (WPF), JavaScript, TypeScript, Rust, Bash Scripting
-- **Machine Learning & AI**: Machine Learning, Deep Learning, Generative AI, Stable Diffusion, Large Language Models, Natural Language Processing, Computer Vision
-- **Frameworks & Libraries**: .NET, Flask, FastAPI, Tensorflow, PyTorch, llama.cpp, GGUF, QLoRA, OpenCV, SAM2, Langchain
-- **Robotics**: Robot Operating System (ROS1 and ROS2), SLAM, Navigation Stack, Gazebo, MoveIt, PCL, TF2, RViz
-- **Extended Reality**: XR and Unity
-- **Web Technologies**: React, Next.js, Node.js, Three.js
-- **Databases**: SQL (MySQL, PostgreSQL), NoSQL (MongoDB, Redis), Vector Database (Chroma DB)
-- **DevOps & Tools**: Docker, Kubernetes, Git, GitHub, CI/CD, GitHub Actions, Jira, AWS
-- **Operating Systems**: Linux (Ubuntu and Arch Linux), freeBSD
+- **Programming Languages**: C
+- **DevOps & Tools**: Git, GitHub,GitHub Actions
 
 ## Selected Research Projects
 
-1. LLMs as Debate Partners: Utilizing Genetic Algorithms and Adversarial Search for Adaptive Arguments
-2. Resource-Aware Arabic LLM Creation: Model Adaptation, Integration, and Multi-Domain Testing
-3. Robot Retrieval and Stocking of Mixed-Size Cardboard Boxes
-4. XR Robotics Simulation in Metaquest3 using Unity and ROS2
-5. Human-Robot Interaction: Natural Language Commands for Vision-Based Navigation on TurtleBot3
-6. BabbleBot.tech: Culturally-aware Arabic AI Avatar chatbots for MENA
+1. A project to implement CRUD (Create, Read, Update, Delete) operations using SQLite in a FastAPI application,delete operation implemented.
 
 ## Leadership
 
-- **Mentor, IFOR robotics club** | *Sep 2024–Present*
-- **Vice President, Linux Users Group** | *Aug 2023–Jun 2024*
+- **Delegates affair, Silver oaks Model United Nation** | *Sep 2024–Present*
 
 ## Contact
 
