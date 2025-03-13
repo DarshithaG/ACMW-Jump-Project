@@ -18,7 +18,7 @@ I am pursuing my first year of electronics and computer engineering at Birla Ins
 ## Skills
 
 - **Programming Languages**: C
-- **DevOps & Tools**: Git, GitHub,GitHub Actions
+- **DevOps & Tools**:  GitHub
 
 ## Selected Research Projects
 
