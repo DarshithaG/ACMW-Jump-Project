@@ -5,7 +5,7 @@ title: Mentee Profile
 
 # Darshitha Gollapalli
 <div align="center">
-  <img src="/img/github-DarshithaG.png" alt="Banner Image" />
+  <img src="https://avatars.githubusercontent.com/u/198168833?v=4" alt="Banner Image" />
 </div>
 
 ## About Me
