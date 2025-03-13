@@ -4,10 +4,8 @@ title: Mentee Profile
 ---
 
 # Darshitha Gollapalli
-![DDDDDD](/img/your-image.png)
-
-<div style={{display: 'flex', justifyContent: 'center', marginBottom: '20px'}}>
-  <img src="https://avatars.githubusercontent.com/u/53960016?v=4" alt="Darshitha Gollapalli" style={{borderRadius: '50%', width: '200px', height: '200px', objectFit: 'cover'}}/>
+<div align="center">
+  <img src="/img/github-DarshithaG.png" alt="Banner Image" />
 </div>
 
 ## About Me
