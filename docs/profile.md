@@ -20,6 +20,13 @@ I am pursuing my first year of electronics and computer engineering at Birla Ins
 - **Programming Languages**: C
 - **DevOps & Tools**:  GitHub
 
+## Other skills
+### Languages
+- **English**
+- **Telugu**
+- **Hindi**
+- **Tamil**
+
 ## Selected Research Projects
 
 1. A project to implement CRUD (Create, Read, Update, Delete) operations using SQLite in a FastAPI application,delete operation implemented.
