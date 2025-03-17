@@ -15,7 +15,17 @@ This documentation site is part of the ACM-W Junior Mentorship Program (JuMP), a
 ## My Role
 
 <!-- TODO: MENTEE - Describe your role in the project and your responsibilities -->
-As a mentor in the ACMW-Jump program, I'm responsible for guiding my team through security and monitoring challenges, helping them develop technical skills, and supporting their professional growth.
+ML Engineer 
+Focus: Developing machine learning models for threat detection.
+Responsibilities:
+Build anomaly detection systems.
+Identify unusual patterns (e.g., sudden data downloads, malware behavior).
+Examples:
+Detect unusual patterns in user behavior.
+Identify potential malware activity.
+Tech Stack: Python, ML libraries, security integration.
+Why it's great: This is the most challenging role, but you'll receive extra guidance and regular code reviews.
+
 
 ## Project Timeline
 
