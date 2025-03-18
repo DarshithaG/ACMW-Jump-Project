@@ -2,6 +2,7 @@
 title: GitHub
 sidebar_label: GitHub
 slug: About GitHub and how to start
+---
 
 # A Beginner's Guide to GitHub
 
