@@ -22,7 +22,8 @@ Markdown allows to simple text formatting tasks such as creating paragraphs, bol
 Use "#" to create headers. More "#" means a smaller heading.
 #### 2.Bold and Italic:
 Make text bold or italic using asterisks or underscores:
-
-** Bold Text **  
- *Italic Text *  
+```bash
+**Bold Text**  
+ *Italic Text*
+ ```  
 
