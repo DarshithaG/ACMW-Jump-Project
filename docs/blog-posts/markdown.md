@@ -23,4 +23,4 @@ Use "#" to create headers. More "#" means a smaller heading.
 #### Bold and Italic:
 Make text bold or italic using asterisks or underscores:
 **Bold Text**  
-*Italic Text*  
+*mmaItalic Text*  
