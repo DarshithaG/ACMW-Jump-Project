@@ -1,7 +1,7 @@
 ---
 title: Markdown
 sidebar_label: Markdown
-slug: The usage of markdown
+description: The usage of markdown
 ---
 
 # Markdown:The markup language
