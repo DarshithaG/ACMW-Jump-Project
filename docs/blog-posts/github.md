@@ -40,6 +40,7 @@ Name it and select the respective options and click create.
 4. Clone the Repository:
 
 To work on your project locally, clone the repository using:
+
 git clone https://github.com/your-username/repository-name.git
 
 5. To store chnages:
