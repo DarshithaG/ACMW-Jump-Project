@@ -46,3 +46,22 @@ Images:
 ```bash
 ![Alt Text](image.jpg)
 ```
+#### 5.Tables
+To get the information in tabes:
+```bash
+| Name  | Age |  
+|-------|-----|  
+| John  | 25  |  
+| Alice | 30  | 
+```
+ 
+## Conclusion
+For developers, authors and anybody else working with structured text, Markdown is used as a vital tool. It is an essential skill to learn because of its readability, simplicity, and versatility. Markdown may improve your workflow whether you're blogging, managing GitHub repositories, or generating documentation.
+
+
+
+
+
+
+
+
