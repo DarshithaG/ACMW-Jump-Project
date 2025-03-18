@@ -54,6 +54,12 @@ To get the information in tabes:
 | John  | 25  |  
 | Alice | 30  | 
 ```
+### Where is Markdown Used?
+Markdown is widely used in:
+GitHub: For README files, issues, and pull requests.
+Documentation: With tools like Docusaurus, MkDocs, and Jekyll.
+Blogging: On platforms like Jekyll, Hugo, and Ghost.
+Note-Taking: Apps like Obsidian, Notion, and Typora.
  
 ## Conclusion
 For developers, authors and anybody else working with structured text, Markdown is used as a vital tool. It is an essential skill to learn because of its readability, simplicity, and versatility. Markdown may improve your workflow whether you're blogging, managing GitHub repositories, or generating documentation.
