@@ -26,4 +26,15 @@ Make text bold or italic using asterisks or underscores:
 **Bold Text**  
  *Italic Text*
  ```  
+ #### 3. Ordered and Unordered lists
+ Unordered List: Use *, +, or -
+```bash
+* Item 1
+* Item 2
+```
+Ordered List: Use numbers followed by a dot
+```bash
+1. First item
+2. Second item
+```
 
