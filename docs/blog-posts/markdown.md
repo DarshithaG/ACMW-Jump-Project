@@ -18,9 +18,9 @@ Version Control Friendly: Unlike Word documents, Markdown files work well with G
 
 ### Markdown formating
 Markdown allows to simple text formatting tasks such as creating paragraphs, bold, italic, and strikethrough text. It helps learn about the syntax for these functions, including the use of asterisks and underscores.
-#### Heading
+#### 1.Heading
 Use "#" to create headers. More "#" means a smaller heading.
-#### Bold and Italic:
+#### 2.Bold and Italic:
 Make text bold or italic using asterisks or underscores:
 **Bold Text**  
 *mmaItalic Text*  
