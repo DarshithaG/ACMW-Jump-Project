@@ -1,7 +1,5 @@
 ---
 title: Souce Control
 sidebar_label: Markd
-description: The usage of markdown
+description: The usage of source control in vscode
 ---
-
-using source control tool in vscode
