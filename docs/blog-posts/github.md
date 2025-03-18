@@ -3,7 +3,7 @@ title: GitHub
 sidebar_label: GitHub
 slug: About GitHub and how to start
 
-# A beginner's Guide to GitHub
+# A Beginner's Guide to GitHub
 
 ## Introduction
 GitHub is a proprietary developer platform that allows developers to create, store, manage, and share their code. It provides a powerful platform for version control and teamwork.
@@ -40,8 +40,7 @@ Name it and select the respective options and click create.
 4. Clone the Repository:
 
 To work on your project locally, clone the repository using:
-
- git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/your-username/repository-name.git
 
 5. To store chnages:
 
