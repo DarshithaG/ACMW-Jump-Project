@@ -37,4 +37,12 @@ Ordered List: Use numbers followed by a dot
 1. First item
 2. Second item
 ```
-
+#### 4. Links and Images
+Links:
+```bash
+[Link Text](http://url.com)
+```
+Images:
+```bash
+![Alt Text](image.jpg)
+```
