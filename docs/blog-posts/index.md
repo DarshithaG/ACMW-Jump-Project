@@ -15,7 +15,7 @@ Welcome to my blog! Here, I share my thoughts, experiences, and reflections on m
 To add a new blog post:
 
 1. Create a new Markdown file in the `docs/blog-posts/` directory
-2. Name the file descriptively, e.g., `git-branching.md`
+2. Name the file descriptively,
 3. Add proper frontmatter at the top of the file:
 
 ```markdown
