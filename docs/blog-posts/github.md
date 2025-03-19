@@ -9,6 +9,7 @@ description: About GitHub and how to start
 ## Introduction
 GitHub is a proprietary developer platform that allows developers to create, store, manage, and share their code. It provides a powerful platform for version control and teamwork.
 GitHub is a cloud-based platform that helps developers manage their projects using Git, a distributed version control system.
+![github](/img/git-hub.png)
 
 ## Why use GitHub?
 
