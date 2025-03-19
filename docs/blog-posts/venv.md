@@ -22,7 +22,21 @@ Open the command palette by pressing `Ctrl+Shift+P`.
 Type: Create Environment and select it
 - Choose venv
 - As the base select the interpreter you want for your virtual environment.
+(0R)
+2. Run the command `python -m venv venv` in the terminal.
 3. To activate the virtual environment
 Once the environment is created, VS Code will prompt you to select it for your workspace. Click Yes.
-(0R)
-3. Run the command `python -m venv venv` in the terminal.
+
+After activation, you should see (venv) appear in your terminal prompt, indicating the environment is active.
+
+### Dependancies
+Once the venv is active, you can install project dependencies:
+```bash
+pip install -r requirements.txt
+```
+If you don’t have a `requirements.txt`, you can install packages individually using:
+```bash
+pip install package-name
+```
+## Conclusion
+Creating a virtual environment in Visual Studio Code is essential to keeping Python projects organized and productive. You can make sure your dependencies stay isolated and controllable by following these procedures. 
