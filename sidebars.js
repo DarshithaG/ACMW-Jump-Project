@@ -42,8 +42,11 @@ const sidebars = {
     'blog-posts/index',       // Blog posts landing page
     
     // Example of how to add a specific blog post
-    // 'blog-posts/git-branching',
-    
+    'blog-posts/github',
+    'blog-posts/markdown',
+    'blog-posts/venv',
+    'blog-posts/source',    
+    'blog-posts/FastAPI',
     // TODO: MENTEE - Add more categories or documents as needed
     // For example:
     // {
