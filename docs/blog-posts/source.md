@@ -49,3 +49,29 @@ git remote add origin <repository-url>
 git branch -M main
 git push -u origin main
 ```
+3. Pulling and Pushing Changes
+In the source control, ckick the option to pull and push you modifications in the code.
+(OR)
+Using the following code in the terminal:
+
+To fetch the latest change from the local repossitory
+```bash
+git pull origin main
+```
+
+To push your commits
+```bash
+git push origin main
+```
+4. Creating and Switching Branches
+Using the Branches section in VS Code’s Source Control tab.
+
+5. Merging Branches
+To merge a feature branch into the main branch:
+```bash
+git checkout main
+git merge feature-branch
+```
+## Conclusions
+
+The Source Control feature in VS Code enables smooth and effective version management. Regardless of whether you're working alone or as part of a team, becoming proficient in Git within VS Code will enhance your development process. 
