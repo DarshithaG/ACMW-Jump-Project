@@ -57,14 +57,16 @@ def hello_world():
 
 ## Example Blog Posts
 
-Check out these examples to see how to structure and format your blog posts:
-
-- [Git Branching Strategies](./git-branching) - A comprehensive guide to Git branching models with visual diagrams and code examples
+Welcome to my blog!!
 
 ## Latest Posts
 
 <!-- TODO: MENTEE - Add links to your blog posts here -->
-- [Git Branching Strategies](./git-branching) - Understanding different Git branching models for effective collaboration
+- [FastApi](./FastApi.md) - Understanding the uses and benifits
+- [Markdown](./markdown.md) - Understanding the uses and benifits
+- [Source Control](./source.md) - Understanding the uses and benifits
+- [Virtual Environment](./venv.md) - Understanding the uses and benifits
+- [GitHub](./github.md) - Understanding the uses and benifits
 
 ## Learning Updates
 
