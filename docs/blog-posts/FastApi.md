@@ -1,7 +1,7 @@
 ---
 title: FastApi
 sidebar_label: FastApi
-description: 
+description: Why use FastAPI
 ---
 FastAPI
 
